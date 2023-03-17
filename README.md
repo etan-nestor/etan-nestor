@@ -7,9 +7,9 @@
 <div align="center">
 ## Me retrouver
 
-[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/@drakolab)
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
+[![YouTube](https://img.shields.io/badge/-Facebook-000?&logo=YouTube&logoColor=F00)](https://web.facebook.com/nodejsdevelopper/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/etan-nestor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nestor-compaore-5a9200247/)
 <br>    
 [Email Me](mailto:etannestor45g@gmail.com)
 </div>
