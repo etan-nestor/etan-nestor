@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
 
-![github_cover_banner](<iframe src="https://giphy.com/embed/3o7qDPxorBbvpB1Pby" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/liquid-bubble-goo-3o7qDPxorBbvpB1Pby">via GIPHY</a></p>)
+![github_cover_banner](<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o7qDPxorBbvpB1Pby" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/liquid-bubble-goo-3o7qDPxorBbvpB1Pby">via GIPHY</a></p>)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Je suis un développeur de logiciels et applications web mobile complet passionné et athlétique, ainsi qu'un créateur de contenu occasionnel. Mon objectif est d'améliorer la vie des gens en développant des applications et des sites Web. J'aime aussi enseigner la programmation et le design car je crois que cela peut donner aux gens les moyens d'atteindre leur plein potentiel et de vivre une vie meilleure. En dehors de cela, je suis une personne très athlétique car je pratique régulièrement du sport en jouant au football et au basketball.
