@@ -1,7 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Je suis un développeur de logiciels et applications web mobile complet passionné et athlétique, ainsi qu'un créateur de contenu occasionnel. Mon objectif est d'améliorer la vie des gens en développant des applications et des sites Web. J'aime aussi enseigner la programmation et le design car je crois que cela peut donner aux gens les moyens d'atteindre leur plein potentiel et de vivre une vie meilleure. En dehors de cela, je suis une personne très athlétique car je pratique régulièrement du sport en jouant au football et au basketball.
 <br>
@@ -143,30 +141,3 @@
     </a>
 </div>
 <!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
-
