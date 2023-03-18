@@ -105,7 +105,7 @@
 </div>
 <br>
 <br>
-<h2 style="color: #44AEFB">🌠 Mes Qualites</h2>
+<h2 style="color: #44AEFB">🌠 Mes Competences</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122178853/226075820-f5a132a5-b0c6-47fb-b151-c4f78fc5f372.gif">
 </p>
@@ -122,26 +122,22 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    <a href="https://web.facebook.com/nodejsdevelopper/" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076344-78aa5402-eb53-4aee-b268-b4fdfe845332.png" alt="facebook" width="40px"/>
     </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+    <a href="https://twitter.com/home" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076424-c4159561-bf81-4a93-9d4d-860866ea4073.png" alt="blogger" width="40px"/>
     </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    <a href="mailto:etannestor45@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076512-72b2c082-756d-46da-a537-1057fd69c729.png" alt="gmail" width="40px"/>
     </a>
 </div>
 <!-- End Footer -->
