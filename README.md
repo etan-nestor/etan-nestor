@@ -105,6 +105,10 @@
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
       <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </a>
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </a>
+
 
 </div>
 <br>
