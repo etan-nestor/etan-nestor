@@ -7,7 +7,7 @@
 
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Je suis un développeur de logiciels et applications web mobile complet passionné et athlétique, ainsi qu'un créateur de contenu occasionnel. Mon objectif est d'améliorer la vie des gens en développant des applications et des sites Web. J'aime aussi enseigner la programmation et le design car je crois que cela peut donner aux gens les moyens d'atteindre leur plein potentiel et de vivre une vie meilleure. En dehors de cela, je suis une personne très athlétique car je pratique régulièrement du sport en jouant au football et au basketball.
+    <p align="center">Je suis un développeur de logiciels et applications web mobile complet passionné et athlétique, ainsi qu'un créateur de contenu occasionnel. Mon objectif est d'améliorer la vie des gens en développant des applications et des sites Web. J'aime aussi enseigner la programmation et le design car je crois que cela peut donner aux gens les moyens d'atteindre leur plein potentiel et de vivre une vie meilleure. En dehors de cela, je suis une personne très athlétique car je pratique régulièrement du sport en jouant au football et au basketball.</p>
 <br>
 <br>
 <div align="center">
