@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/etan-nestor)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nestor-compaore-5a9200247/)
 <br>    
-[Email Me](mailto:etannestor45g@gmail.com) 📧
+[📧](mailto:etannestor45g@gmail.com) 
 </div>
 </p>    
 <br>
