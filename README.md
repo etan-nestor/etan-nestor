@@ -142,7 +142,40 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=etan-nestor&count_private=true&theme=algolia&border_radius=20)
 
-👉 My hobbies
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etan-nestor&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
+
+<h2 style="color: #44AEFB">🧰 My collective projects </h2>
+   <p align="center">
+       <img src="https://user-images.githubusercontent.com/122178853/226084652-80ef98a2-b2bf-427c-a8c6-e3d3598fd97f.gif">
+  </p>
+
+   <table>
+         <tr>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084099-fb73ae80-4d40-4fda-a7f2-e10ba36eea99.gif" /></td>
+          </tr>
+</table>
+
+<h2 style="color: #44AEFB">🧰 My individual projects </h2>
+   <p align="center">
+       <img src="https://user-images.githubusercontent.com/122178853/226084785-442727c7-f3ae-40cd-84c2-18ffe060e7ef.gif">
+  </p>
+
+   <table>
+         <tr>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226084099-fb73ae80-4d40-4fda-a7f2-e10ba36eea99.gif" /></td>
+          </tr>
+</table>
+
+<h2 style="color: #44AEFB">👉 My Hobbies </h2>
    
    <table>
          <tr>
@@ -153,11 +186,6 @@
           </tr>
 </table>
 
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etan-nestor&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
 
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://web.facebook.com/nodejsdevelopper/" target="_blank">
