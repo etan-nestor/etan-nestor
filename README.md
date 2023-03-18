@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
             <h2 align="center">🔖 I am Developper ⌨️</h2>
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/122178853/226080400-d4ff5073-8809-4ea7-8c5d-c9da503ae426.mp4" autoplay loop>
+  <img src="![3](https://user-images.githubusercontent.com/122178853/226073795-091d7a86-6b73-4b04-9493-8a7d0b25adeb.gif)">
 </video>
 </p>
 
