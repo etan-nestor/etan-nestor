@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
 
-<div align="center">
-    [![ComeToCode]](https://user-images.githubusercontent.com/122178853/226073795-091d7a86-6b73-4b04-9493-8a7d0b25adeb.gif)
+<div align:"center">
+    ![ComeToCode](https://user-images.githubusercontent.com/122178853/226073795-091d7a86-6b73-4b04-9493-8a7d0b25adeb.gif)
 </div>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
