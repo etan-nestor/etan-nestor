@@ -29,7 +29,7 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
-
+<div style="display:flex; justify-content:center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -108,8 +108,11 @@
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
       <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a>
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img alt="photoshop" height="50px" style="padding-right:10px;" src="" />
+  </a>
 
-
+</div>
 </div>
 <br>
 <br>
