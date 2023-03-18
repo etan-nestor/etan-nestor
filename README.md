@@ -145,16 +145,10 @@
 👉 My hobbies
    
    <table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" /></td>
-    <td><img src="https://user-images.githubusercontent.com/122178853/226083947-fb0615a4-f48a-4639-bc70-9205d765f94f.gif" /></td>
-    <td><img src="path/to/file3.gif" /></td>
-  </tr>
-  <tr>
-    <td><img src="path/to/file4.gif" /></td>
-    <td><img src="path/to/file5.gif" /></td>
-    <td><img src="path/to/file6.gif" /></td>
-  </tr>
+         <tr>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226083947-fb0615a4-f48a-4639-bc70-9205d765f94f.gif" /></td>
+          </tr>
 </table>
 
     
