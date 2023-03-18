@@ -12,7 +12,7 @@
 <br>
 <div align="center">
     
-            <h3>🗪 Me retrouver</h3>
+🗪 Me retrouver
 
 [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://web.facebook.com/nodejsdevelopper/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/etan-nestor)
