@@ -1,8 +1,10 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
             <h2 align="center">🔖 I am Developper ⌨️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122178853/226080400-d4ff5073-8809-4ea7-8c5d-c9da503ae426.mp4">
+  <video src="https://user-images.githubusercontent.com/122178853/226080400-d4ff5073-8809-4ea7-8c5d-c9da503ae426.mp4" controls>
+</video>
 </p>
+
 
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
