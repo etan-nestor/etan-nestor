@@ -105,10 +105,10 @@
 </div>
 <br>
 <br>
-
-
-
-
+<h2 style="color: #44AEFB">🌠 Mes Qualites</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122178853/226075820-f5a132a5-b0c6-47fb-b151-c4f78fc5f372.gif">
+</p>
 
 <!-- Statistics -->
 
