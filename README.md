@@ -109,7 +109,13 @@
       <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-      <img alt="photoshop" height="50px" style="padding-right:10px;" src="" />
+      <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+  </a>
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </a>
 
 </div>
