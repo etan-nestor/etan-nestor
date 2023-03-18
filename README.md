@@ -180,11 +180,11 @@
        <img src="https://user-images.githubusercontent.com/122178853/226085523-348aa8cd-1744-4a7c-9c2c-1d38d0cfa742.jpg" alt="Nom de l'image" width="400" height="250">
     </p>
    <table>
-         <tr>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" />I ❤️ code</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" />I ❤️ manga</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" />I ❤️ football</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226084099-fb73ae80-4d40-4fda-a7f2-e10ba36eea99.gif" />I ❤️ sport</td>
+         <tr align="center">
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" />I ❤️ code</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" />I ❤️ manga</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" />I ❤️ football</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084099-fb73ae80-4d40-4fda-a7f2-e10ba36eea99.gif" />I ❤️ sport</td>
           </tr>
 </table>
 
