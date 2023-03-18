@@ -154,10 +154,10 @@
 
    <table>
          <tr>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" />1</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" />2</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" />3</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" />4</td>
           </tr>
 </table>
 
@@ -168,10 +168,10 @@
 
    <table>
          <tr>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" /></td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" /></td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" />1</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" />2</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" />3</td>
+                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" />4</td>
           </tr>
 </table>
 
@@ -181,9 +181,9 @@
     </p>
    <table>
          <tr align="center">
-                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" />I ❤️ code</td>
-                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" />I ❤️ manga</td>
-                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" />I ❤️ football</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" />I 🧡 code</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084348-b7467465-3a1e-4f32-85c3-d4a17fe0afc6.gif" />I 💙 manga</td>
+                <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084202-a145aee3-35a2-4fbb-b9ec-9f55236d76b2.gif" />I 💚 football</td>
                 <td align="center"><img src="https://user-images.githubusercontent.com/122178853/226084099-fb73ae80-4d40-4fda-a7f2-e10ba36eea99.gif" />I ❤️ sport</td>
           </tr>
 </table>
