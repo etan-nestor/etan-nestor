@@ -125,7 +125,7 @@
 </div>
 <br>
 <br>
-<h2 style="color: #44AEFB">🌠 Mes Competences</h2>
+<h2 style="color: #44AEFB">🌠 My skills </h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122178853/226075820-f5a132a5-b0c6-47fb-b151-c4f78fc5f372.gif">
 </p>
@@ -142,6 +142,20 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=etan-nestor&count_private=true&theme=algolia&border_radius=20)
 
+👉 My hobbies
+   
+   <table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/122178853/226083875-c7d744d4-d90b-4716-89f7-c549d8b6fe7a.gif" /></td>
+    <td><img src="https://user-images.githubusercontent.com/122178853/226083947-fb0615a4-f48a-4639-bc70-9205d765f94f.gif" /></td>
+    <td><img src="path/to/file3.gif" /></td>
+  </tr>
+  <tr>
+    <td><img src="path/to/file4.gif" /></td>
+    <td><img src="path/to/file5.gif" /></td>
+    <td><img src="path/to/file6.gif" /></td>
+  </tr>
+</table>
 
     
 <!-- compact programming languages layout -->
