@@ -177,7 +177,7 @@
 
 <h2 style="color: #44AEFB">👉 My Hobbies </h2>
     <p align="center">
-       <img src="https://user-images.githubusercontent.com/122178853/226084901-653c2515-d0fe-4bf8-9255-e166f40e3db8.jpg">
+       <img src="https://user-images.githubusercontent.com/122178853/226085222-b82eef1a-6a1a-415b-a401-e6e387fbb603.png">
     </p>
    <table>
          <tr>
