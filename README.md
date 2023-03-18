@@ -161,7 +161,7 @@
           </tr>
 </table>
 
-<h2 style="color: #44AEFB">🧰 My individual projects </h2>
+<h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
        <img src="https://user-images.githubusercontent.com/122178853/226084785-442727c7-f3ae-40cd-84c2-18ffe060e7ef.gif">
   </p>
@@ -177,7 +177,7 @@
 
 <h2 style="color: #44AEFB">👉 My Hobbies </h2>
     <p align="center">
-       <img src="https://user-images.githubusercontent.com/122178853/226085222-b82eef1a-6a1a-415b-a401-e6e387fbb603.png">
+       <img src="https://user-images.githubusercontent.com/122178853/226085393-630c53fc-9dee-475f-b67d-243f8ccdcb52.png">
     </p>
    <table>
          <tr>
