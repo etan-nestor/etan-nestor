@@ -21,11 +21,10 @@
 [📧](mailto:etannestor45g@gmail.com) 
 </div>
 </p>    
-<p align="center">
+<h3 align="center">
      <a href="https://github.com/etan-nestor/etan-nestor/files/11020445/vc.pdf"> 🗃 Voir Mon CV 📊
      </a>
-            
-</P
+</h3>
 <br>
 <!-- Languages and Tools -->
 
