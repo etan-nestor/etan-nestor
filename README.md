@@ -22,7 +22,7 @@
 </div>
 </p>    
 <p align="center">
-     <a href="https://github.com/etan-nestor/etan-nestor/files/11020445/vc.pdf"> 🗃 Voir Mon CV 
+     <a href="https://github.com/etan-nestor/etan-nestor/files/11020445/vc.pdf"> 🗃 Voir Mon CV 📊
      </a>
             
 </P
