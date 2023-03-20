@@ -21,6 +21,9 @@
 [📧](mailto:etannestor45g@gmail.com) 
 </div>
 </p>    
+<p>
+            Voir CV
+</P
 <br>
 <!-- Languages and Tools -->
 
