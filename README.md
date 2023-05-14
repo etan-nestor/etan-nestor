@@ -7,7 +7,7 @@
 
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    <p align="center">Je suis un développeur de logiciels et applications web mobile complet passionné et athlétique, ainsi qu'un créateur de contenu occasionnel. Mon objectif est d'améliorer la vie des gens en développant des applications et des sites Web. J'aime aussi enseigner la programmation et le design car je crois que cela peut donner aux gens les moyens d'atteindre leur plein potentiel et de vivre une vie meilleure. En dehors de cela, je suis une personne très athlétique car je pratique régulièrement du sport en jouant au football et au basketball.</p>
+    <p align="center">Je suis un développeur passionné, spécialisé dans les technologies de développement web et mobile telles que React, Vue, Svelte, Angular, React Native, Ionic et Native Script, avec une expertise dans les frameworks backend tels que Node.js Express, PHP et Django. J'ai également une solide expérience dans la conception de l'interface utilisateur avec Figma, ainsi que la gestion des bases de données MySQL, Postgres, MongoDB et Firebase. Je suis constamment à la recherche de nouveaux défis et opportunités pour continuer à développer mes compétences et contribuer au succès de projets innovants.</p>
 <br>
 <br>
 <div align="center">
