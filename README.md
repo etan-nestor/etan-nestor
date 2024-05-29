@@ -165,7 +165,7 @@ relever tous les défis.
 </div>
 <!--  End Stats Cards -->
 
-<div align="center>
+<p align="center>
             
 <h2 style="color: #44AEFB">🧰 Mon Entreprise </h2>
 
@@ -176,7 +176,7 @@ relever tous les défis.
    [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/organizations/Avandced-Digital-Solutions)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/company/open-numerc)
 
-</div>
+</p>
 
 <h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
@@ -187,7 +187,7 @@ relever tous les défis.
          <tr>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/a9069b1c-9c17-4907-8209-7342cf20f243.png" />Non-Profit Website</td>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/7ffa1d44-a617-4abd-a5c9-ea242dc426df.png"/>Ecom Website</td>
-                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b95d16b1-302e-4127-849a-14f87383edc7.gif" />My Favorite Anime</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b95d16b1-302e-4127-849a-14f87383edc7" />My Favorite Anime</td>
           </tr>
 </table>
 
