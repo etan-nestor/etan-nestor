@@ -172,36 +172,28 @@ relever tous les défis.
 </div>
 <!--  End Stats Cards -->
 
-<h2 style="color: #44AEFB">🧰 My collective projects </h2>
-   <p align="center">
-       <img src="https://user-images.githubusercontent.com/122178853/226084652-80ef98a2-b2bf-427c-a8c6-e3d3598fd97f.gif">
-  </p>
+<h2 style="color: #44AEFB">🧰 Mon Entreprise </h2>
 
-   <table>
-         <tr>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" />1</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" />2</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" />3</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" />4</td>
-          </tr>
-</table>
+   <p align="center">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif">
+  </p>
 
 <h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
-       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/f16a4a99-9800-4bda-9f9a-cace81bf2d8d">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/f16a4a99-9800-4bda-9f9a-cace81bf2d8d" width="350" height="450">
   </p>
 
    <table>
          <tr>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/a9069b1c-9c17-4907-8209-7342cf20f243.png" />Non-Profit Website</td>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/7ffa1d44-a617-4abd-a5c9-ea242dc426df.png"/>Ecom Website</td>
-                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/d2e40264-3355-4950-9b82-0263de407db0" />My Favorite Anime</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/d2e40264-3355-4950-9b82-0263de407db0.mp4" />My Favorite Anime</td>
           </tr>
 </table>
 
 <h2 style="color: #44AEFB">👉 Mes Loisirs </h2>
     <p align="center">
-       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="400" height="250">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="350" height="450">
     </p>
    <table>
          <tr align="center">
