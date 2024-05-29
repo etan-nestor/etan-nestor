@@ -43,7 +43,7 @@ relever tous les défis.
 </div>
 </p>    
 <h3 align="center">
-     <a href="[Nestor_COMPAORE_Fr.pdf](https://github.com/etan-nestor/etan-nestor/files/15483209/Nestor_COMPAORE_Fr.pdf" font-size: 20px;> 🗃 Voir Mon CV 📊
+     <a href="https://github.com/etan-nestor/etan-nestor/files/15483209/Nestor_COMPAORE_Fr.pdf" font-size: 20px;> 🗃 Voir Mon CV 📊
      </a>
 </h3>
 <br>
@@ -115,9 +115,6 @@ relever tous les défis.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
-  </a>
   <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
       <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
   </a>
@@ -142,10 +139,6 @@ relever tous les défis.
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
       <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </a>
-   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-      <img alt="photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  </a>
-
 </div>
 </div>
 <br>
@@ -172,28 +165,36 @@ relever tous les défis.
 </div>
 <!--  End Stats Cards -->
 
+<div align="center>
 <h2 style="color: #44AEFB">🧰 Mon Entreprise </h2>
 
    <p align="center">
-       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif">
-  </p>
+       <a href="www.opennumerique.com>
+            <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif">
+       </a>
+  </p> 
+   [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/profile.php?id=100084069582721)
+   [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/organizations/Avandced-Digital-Solutions)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/company/open-numerc)
+
+</div>
 
 <h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
-       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/f16a4a99-9800-4bda-9f9a-cace81bf2d8d" width="350" height="450">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="350" height="400">
   </p>
 
    <table>
          <tr>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/a9069b1c-9c17-4907-8209-7342cf20f243.png" />Non-Profit Website</td>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/7ffa1d44-a617-4abd-a5c9-ea242dc426df.png"/>Ecom Website</td>
-                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/d2e40264-3355-4950-9b82-0263de407db0.mp4" />My Favorite Anime</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b95d16b1-302e-4127-849a-14f87383edc7.mp4" />My Favorite Anime</td>
           </tr>
 </table>
 
 <h2 style="color: #44AEFB">👉 Mes Loisirs </h2>
     <p align="center">
-       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="350" height="450">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/0a102f40-d760-4977-a3dd-65c31a4c3387.jpg" alt="Nom de l'image" width="350" height="400">
     </p>
    <table>
          <tr align="center">
