@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
-            <h2 align="center">🔖 I am Developper ⌨️</h2>
+            <h2 align="center">🔖 Je suis dévelopeur full Orienté Technologie JavaScript ⌨️</h2>
 <p align="center">
   <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/86b4fad1-4833-4310-8e5f-64b64fd1cae3.png">
 </p>
@@ -7,7 +7,27 @@
 
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    <p align="center">Je suis un développeur passionné, spécialisé dans les technologies de développement web et mobile telles que React, Vue, Svelte, Angular, React Native, Ionic et Native Script, avec une expertise dans les frameworks backend tels que Node.js Express, PHP et Django. J'ai également une solide expérience dans la conception de l'interface utilisateur avec Figma, ainsi que la gestion des bases de données MySQL, Postgres, MongoDB et Firebase. Je suis constamment à la recherche de nouveaux défis et opportunités pour continuer à développer mes compétences et contribuer au succès de projets innovants.</p>
+    <p align="center">
+Passionné par la technologie et la programmation, je suis diplômé de l'Institut Burkinabé
+des Arts et Métiers (IBAM) avec une licence en informatique, spécialité MIAGE
+(Méthodes Informatiques Appliquées à la Gestion d'Entreprise). Au cours de mes études et
+de mon parcours professionnel, j'ai développé une expertise solide en développement web
+et mobile.
+Je suis un développeur avancé en JavaScript, maîtrisant divers frameworks et bibliothèques
+tels que React, Angular, Vue, Astro, Adonis, et Node.js. J'ai une expérience significative
+dans la création de sites web dynamiques et professionnels, en utilisant Node.js et
+Express.js pour les applications en temps réel, et Laravel (PHP) ou Django (Python) pour
+les backends robustes.
+Bien que je me spécialise actuellement dans le développement web, j'aspire à me diriger
+vers la data science et le Big Data. En parallèle, je renforce mes compétences en
+développement mobile avec React Native, Flutter (Dart), Android et .NET MAUI (C#).
+Mon parcours est marqué par une constante volonté d'apprendre et de m'améliorer. Je
+possède également une base solide en design et en utilisation des outils bureautiques
+avancés. Mon objectif est de contribuer efficacement à des projets innovants et d'apporter
+une valeur ajoutée significative à l'équipe que j'intègre. Ma passion pour la technologie et
+mon engagement envers l'excellence font de moi un candidat déterminé et motivé, prêt à
+relever tous les défis.
+    </p>
 <br>
 <br>
 <div align="center">
@@ -22,13 +42,13 @@
 </div>
 </p>    
 <h3 align="center">
-     <a href="https://github.com/etan-nestor/etan-nestor/files/11021007/vc.pdf"> 🗃 Voir Mon CV 📊
+     <a href="Nestor_COMPAORE_Fr.pdf](https://github.com/etan-nestor/etan-nestor/files/15483209/Nestor_COMPAORE_Fr.pdf"> 🗃 Voir Mon CV 📊
      </a>
 </h3>
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙ Langages et Outils </h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
