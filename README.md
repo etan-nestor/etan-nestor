@@ -165,19 +165,6 @@ relever tous les défis.
 </div>
 <!--  End Stats Cards -->
 
-<p align="center>
-            
-<h2 style="color: #44AEFB">🧰 Mon Entreprise </h2>
-
-   <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif" width="250" height="200">
-  
-
-   [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/profile.php?id=100084069582721)
-   [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/organizations/Avandced-Digital-Solutions)
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/company/open-numerc)
-
-</p>
-
 <h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
        <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="350" height="400">
