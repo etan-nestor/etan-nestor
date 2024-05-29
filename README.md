@@ -173,6 +173,7 @@ relever tous les défis.
             <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif">
        </a>
   </p> 
+
    [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/profile.php?id=100084069582721)
    [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/organizations/Avandced-Digital-Solutions)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/company/open-numerc)
