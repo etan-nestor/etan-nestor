@@ -6,7 +6,7 @@
 
 
    
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
     <p align="center">
 Passionné par la technologie et la programmation, je suis diplômé de l'Institut Burkinabé
 des Arts et Métiers (IBAM) avec une licence en informatique, spécialité MIAGE
@@ -39,10 +39,11 @@ relever tous les défis.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](linkedin.com/in/nestor-compaore-🏅-5a9200247)
 <br>    
 [📧](mailto:nestor@opennumerique.com) 
+
 </div>
 </p>    
 <h3 align="center">
-     <a href="Nestor_COMPAORE_Fr.pdf](https://github.com/etan-nestor/etan-nestor/files/15483209/Nestor_COMPAORE_Fr.pdf"> 🗃 Voir Mon CV 📊
+     <a href="[Nestor_COMPAORE_Fr.pdf](https://github.com/etan-nestor/etan-nestor/files/15483209/Nestor_COMPAORE_Fr.pdf" font-size: 20px;> 🗃 Voir Mon CV 📊
      </a>
 </h3>
 <br>
@@ -187,21 +188,20 @@ relever tous les défis.
 
 <h2 style="color: #44AEFB">⚗️ My individual projects </h2>
    <p align="center">
-       <img src="https://user-images.githubusercontent.com/122178853/226084785-442727c7-f3ae-40cd-84c2-18ffe060e7ef.gif">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/f16a4a99-9800-4bda-9f9a-cace81bf2d8d">
   </p>
 
    <table>
          <tr>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090661-e62885a9-a6de-4c6f-a507-96de3ce618d7.png" />1</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090711-90c3c063-9a8a-4f36-b4ef-e179549be8fd.png" />2</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090741-46bca8e1-e79c-4903-a3f9-fa299ac5cd1e.png" />3</td>
-                <td><img src="https://user-images.githubusercontent.com/122178853/226090747-d5c02f0b-40f0-492a-bbfb-10e125c3ba24.png" />4</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/a9069b1c-9c17-4907-8209-7342cf20f243.png" />Non-Profit Website</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/7ffa1d44-a617-4abd-a5c9-ea242dc426df.png"/>Ecom Website</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/d2e40264-3355-4950-9b82-0263de407db0" />My Favorite Anime</td>
           </tr>
 </table>
 
-<h2 style="color: #44AEFB">👉 My Hobbies </h2>
+<h2 style="color: #44AEFB">👉 Mes Loisirs </h2>
     <p align="center">
-       <img src="https://user-images.githubusercontent.com/122178853/226085523-348aa8cd-1744-4a7c-9c2c-1d38d0cfa742.jpg" alt="Nom de l'image" width="400" height="250">
+       <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/2f5c254d-c336-4a84-b0d2-e9e3c6908645.jpg" alt="Nom de l'image" width="400" height="250">
     </p>
    <table>
          <tr align="center">
@@ -212,16 +212,4 @@ relever tous les défis.
           </tr>
 </table>
 
-
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://web.facebook.com/nodejsdevelopper/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076344-78aa5402-eb53-4aee-b268-b4fdfe845332.png" alt="facebook" width="40px"/>
-    </a>
-    <a href="https://twitter.com/home" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076424-c4159561-bf81-4a93-9d4d-860866ea4073.png" alt="blogger" width="40px"/>
-    </a>
-    <a href="mailto:etannestor45@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/122178853/226076512-72b2c082-756d-46da-a537-1057fd69c729.png" alt="gmail" width="40px"/>
-    </a>
-</div>
 <!-- End Footer -->
