@@ -166,11 +166,10 @@ relever tous les défis.
 <!--  End Stats Cards -->
 
 <div align="center>
+            
 <h2 style="color: #44AEFB">🧰 Mon Entreprise </h2>
 
-<a href="www.opennumerique.com>
-            <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif">
-</a>
+   <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b271b327-c923-4766-beda-4683c1654294.gif" width="250" height="200">
   
 
    [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/profile.php?id=100084069582721)
@@ -188,7 +187,7 @@ relever tous les défis.
          <tr>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/a9069b1c-9c17-4907-8209-7342cf20f243.png" />Non-Profit Website</td>
                 <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/7ffa1d44-a617-4abd-a5c9-ea242dc426df.png"/>Ecom Website</td>
-                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b95d16b1-302e-4127-849a-14f87383edc7" />My Favorite Anime</td>
+                <td><img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/b95d16b1-302e-4127-849a-14f87383edc7.gif" />My Favorite Anime</td>
           </tr>
 </table>
 
