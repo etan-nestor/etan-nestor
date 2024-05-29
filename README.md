@@ -14,11 +14,11 @@
     
 🗪 Me retrouver
 
-[![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://web.facebook.com/nodejsdevelopper/)
+[![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/EtanNestoria)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/etan-nestor)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nestor-compaore-5a9200247/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](linkedin.com/in/nestor-compaore-🏅-5a9200247)
 <br>    
-[📧](mailto:etannestor45g@gmail.com) 
+[📧](mailto:nestor@opennumerique.com) 
 </div>
 </p>    
 <h3 align="center">
