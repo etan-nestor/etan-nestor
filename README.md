@@ -8,25 +8,15 @@
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
     <p align="center">
-Passionné par la technologie et la programmation, je suis diplômé de l'Institut Burkinabé
-des Arts et Métiers (IBAM) avec une licence en informatique, spécialité MIAGE
-(Méthodes Informatiques Appliquées à la Gestion d'Entreprise). Au cours de mes études et
-de mon parcours professionnel, j'ai développé une expertise solide en développement web
-et mobile.
-Je suis un développeur avancé en JavaScript, maîtrisant divers frameworks et bibliothèques
-tels que React, Angular, Vue, Astro, Adonis, et Node.js. J'ai une expérience significative
-dans la création de sites web dynamiques et professionnels, en utilisant Node.js et
-Express.js pour les applications en temps réel, et Laravel (PHP) ou Django (Python) pour
-les backends robustes.
-Bien que je me spécialise actuellement dans le développement web, j'aspire à me diriger
-vers la data science et le Big Data. En parallèle, je renforce mes compétences en
-développement mobile avec React Native, Flutter (Dart), Android et .NET MAUI (C#).
-Mon parcours est marqué par une constante volonté d'apprendre et de m'améliorer. Je
-possède également une base solide en design et en utilisation des outils bureautiques
-avancés. Mon objectif est de contribuer efficacement à des projets innovants et d'apporter
-une valeur ajoutée significative à l'équipe que j'intègre. Ma passion pour la technologie et
-mon engagement envers l'excellence font de moi un candidat déterminé et motivé, prêt à
-relever tous les défis.
+Passionné par la technologie et le développement, je suis diplômé de l’Institut Burkinabé des Arts et Métiers (IBAM) en informatique, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion d’Entreprise).
+
+Je suis un développeur fullstack JavaScript/TypeScript avec une expertise avancée sur des frameworks et outils modernes comme React, React Native, Angular, Next.js, NestJS, Express, et Firebase. Côté base de données, je maîtrise MongoDB et PostgreSQL, avec une architecture orientée performances, sécurité et scalabilité.
+
+Je conçois des interfaces hautement professionnelles et ergonomiques, en m’appuyant sur Figma, le Canvas API, et des principes de design modernes. Mon objectif : créer des expériences utilisateur fluides, élégantes et intuitives.
+
+Je développe aussi bien des applications web que mobiles, avec un focus particulier sur la qualité du code, la structure, et l’intégration fluide de services tiers (API, authentification, stockage cloud, etc.).
+
+Toujours en quête d'amélioration, je suis animé par un esprit d'initiative, une culture du résultat, et une passion sincère pour l’innovation. J'aime les projets exigeants qui combinent technique, design, et impact utilisateur réel.
     </p>
 <br>
 <br>
