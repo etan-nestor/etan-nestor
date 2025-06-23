@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
-            <h2 align="center">🔖 Je suis dévelopeur full Orienté Technologie JavaScript ⌨️</h2>
+            <h2 align="center">🔖Spécialiste en Solutions Numériques ⌨️</h2>
 <p align="center">
   <img src="https://github.com/etan-nestor/audio-files/raw/main/ON_B.png">
 </p>
@@ -22,9 +22,9 @@ Toujours en quête d'amélioration, je suis animé par un esprit d'initiative, u
 
 [![FaceBook](https://img.shields.io/badge/-Facebook-000?&logo=FaceBook&logoColor=22f)](https://www.facebook.com/EtanNestoria)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/etan-nestor)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](linkedin.com/in/nestor-compaore-🏅-5a9200247)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](linkedin.com/in/nestor-compaore-5a9200247)
 <br>    
-[📧](mailto:nestor@opennumerique.com) 
+[📧](mailto:tech00.02in@gmail.com) 
 
 </div>
 </p>    
