@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nestor COMPAORE </h1>
             <h2 align="center">🔖 Je suis dévelopeur full Orienté Technologie JavaScript ⌨️</h2>
 <p align="center">
-  <img src="https://github.com/etan-nestor/etan-nestor/assets/122178853/86b4fad1-4833-4310-8e5f-64b64fd1cae3.png">
+  <img src="https://github.com/etan-nestor/audio-files/raw/main/ON_B.png">
 </p>
 
 
