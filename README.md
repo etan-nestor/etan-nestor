@@ -8,11 +8,7 @@
    
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
     <p>
-Passionné par la technologie et le développement, je suis diplômé de l’Institut Burkinabé des Arts et Métiers (IBAM) en informatique, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion d’Entreprise).
-Je suis un développeur fullstack JavaScript/TypeScript avec une expertise avancée sur des frameworks et outils modernes comme React, React Native, Angular, Next.js, NestJS, Express, et Firebase. Côté base de données, je maîtrise MongoDB et PostgreSQL, avec une architecture orientée performances, sécurité et scalabilité.
-Je conçois des interfaces hautement professionnelles et ergonomiques, en m’appuyant sur Figma, le Canvas API, et des principes de design modernes. Mon objectif : créer des expériences utilisateur fluides, élégantes et intuitives.
-Je développe aussi bien des applications web que mobiles, avec un focus particulier sur la qualité du code, la structure, et l’intégration fluide de services tiers (API, authentification, stockage cloud, etc.).
-Toujours en quête d'amélioration, je suis animé par un esprit d'initiative, une culture du résultat, et une passion sincère pour l’innovation. J'aime les projets exigeants qui combinent technique, design, et impact utilisateur réel.
+Ingénieur des travaux informatiques formé en MIAGE, je conçois des applications web et mobiles performantes, sécurisées et évolutives. J’utilise des outils modernes comme React, Angular, NestJS, Django, Flask, Electron JS, ou encore Tkinter, avec une maîtrise en gestion de projets. Passionné et orienté résultats, je crée des solutions alliant technique, design soigné et impact utilisateur.
     </p>
 <br>
 <br>
